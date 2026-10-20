@@ -26,7 +26,6 @@ Agimat is a free macOS app. Open it with a keyboard shortcut, search by name or 
 - <kbd>⌘I</kbd> shows a character's name, codepoint, Unicode block and category.
 - Keyboard-centric: move the selection with the arrow keys or vim-style <kbd>⌃H</kbd> <kbd>⌃J</kbd> <kbd>⌃K</kbd> <kbd>⌃L</kbd>. <kbd>⌘1</kbd>–<kbd>⌘4</kbd> switch to Favorites, Emoji, Symbols or Punctuation. <kbd>Esc</kbd> goes back to All, then closes.
 - Set a default skin tone, or choose one each time.
-- Follows Light and Dark mode, with an optional dark Smoke theme.
 
 ## Install
 
