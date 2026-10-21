@@ -10,10 +10,7 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset=".github/palette-dark.png">
-    <img src=".github/palette-light.png" width="720" alt="The Agimat palette showing search results for “face”">
-  </picture>
+  <img src=".github/palette.png" width="720" alt="The Agimat palette showing search results for “face”, in the light theme on the left and the dark theme on the right">
 </p>
 
 Agimat is a free macOS app. Open it with a keyboard shortcut, search by name or codepoint, and press Return to insert the character at your cursor.
